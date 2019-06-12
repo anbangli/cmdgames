@@ -1,4 +1,4 @@
-# CMD-games
+# command-games
 This is a collection of small games under commmand line windows. 
 These classic games are included: Snake, boxes, bricks, Tetric, Pac-man.
 
